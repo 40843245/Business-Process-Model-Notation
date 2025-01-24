@@ -1,4 +1,4 @@
-# quickstart guide
+# BPMN
 ## Elements
 Elements in BPMN is a small unit of an enitity. It behaves like entities in ERD.
 
