@@ -102,6 +102,7 @@ There are three pre-defined artifacts:
 + annotation
 
 ## Data objects
+Illustrate which data is required or which data is produced during activities.
 
 <img width="121" alt="image" src="https://github.com/user-attachments/assets/ad42092b-8eaa-4a5e-a83c-2d32c5a9ae5f" />
 
