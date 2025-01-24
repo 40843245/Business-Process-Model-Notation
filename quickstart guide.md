@@ -75,8 +75,42 @@ It includes
 ## Pools
 Pools represent major participants in a task (or process).
 
-> Features
-> 
-> A pool can be open (i.e., showing internal detail) when it is depicted as a large rectangle showing one or more lanes,
->
-> or be collapsed (i.e., hiding internal detail) when it is depicted as an empty rectangle stretching the width or height of the diagram.
+<img width="119" alt="image" src="https://github.com/user-attachments/assets/2df6b9b3-32ae-4357-8a72-e977f588b48c" />
+
+Features
+ 
++ be open (i.e., showing internal detail) when it is depicted as a large rectangle showing one or more lanes,
+
++ be collapsed (i.e., hiding internal detail) when it is depicted as an empty rectangle stretching the width or height of the diagram.
+
+## Lanes
+Used to organise and categorise activities within a pool according to function or role.
+
+It includes
+
++ flow objects
++ connecting objects
++ artifacts.
+
+## Artifacts
+Used to bring some more information into the model or diagram.
+
+There are three pre-defined artifacts:
+
++ data objects
++ group
++ annotation
+
+## Data objects
+
+<img width="121" alt="image" src="https://github.com/user-attachments/assets/ad42092b-8eaa-4a5e-a83c-2d32c5a9ae5f" />
+
+## Groups
+Used to group many same or similar activities, that not affect to flow, into one group.
+
+<img width="122" alt="image" src="https://github.com/user-attachments/assets/ddef269d-1640-4bce-9763-bdfbb8992700" />
+
+## Annotations
+Used to annotate important part of activities that make the model or diagram more readable.
+
+<img width="133" alt="image" src="https://github.com/user-attachments/assets/eb652dcd-37d2-47a0-a4c6-be5e0b1fd640" />
