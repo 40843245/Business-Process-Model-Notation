@@ -115,3 +115,6 @@ Used to group many same or similar activities, that not affect to flow, into one
 Used to annotate important part of activities that make the model or diagram more readable.
 
 <img width="133" alt="image" src="https://github.com/user-attachments/assets/eb652dcd-37d2-47a0-a4c6-be5e0b1fd640" />
+
+## Reference
++ [`BPMN (Wiki)`](https://en.wikipedia.org/wiki/Business_Process_Model_and_Notation)
